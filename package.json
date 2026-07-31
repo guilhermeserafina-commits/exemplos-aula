@@ -1,0 +1,24 @@
+{
+  "name": "exemplos-aula",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/guilhermeserafina-commits/exemplos-aula#readme",
+  "bugs": {
+    "url": "https://github.com/guilhermeserafina-commits/exemplos-aula/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermeserafina-commits/exemplos-aula.git"
+  },
+  "license": "ISC",
+  "author": "Guilherme Bento Serafina",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
